@@ -821,6 +821,3 @@ while True:
         print("Goodbye!")
 
         break
-
-    
-
